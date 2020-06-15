@@ -1,10 +1,10 @@
 Twitter_account,Type
 @CardiffRUG,user-group		
 @RLadiesMiami,user-group
-@_R_Foundation,non-profit org
-@RConsortium,non-profit org
-@RLadiesGlobal,non-profit org
-@R_Forwards,non-profit org
+@_R_Foundation,non-profit
+@RConsortium,non-profit
+@RLadiesGlobal,non-profit
+@R_Forwards,non-profit
 @R4DScommunity,educational		
 @tidyverse,educational
 @tidyversetweets,educational
@@ -13,3 +13,8 @@ Twitter_account,Type
 @rstudio,org
 @RStudioEDU,educational
 @AfricaR,non-profit org
+@rstatstweet,utility
+@whyRconf,event
+@rstudiotips,educational
+@rstats4ds,educational
+@Bioconductor,non-profit
