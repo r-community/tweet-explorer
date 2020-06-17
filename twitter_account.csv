@@ -237,9 +237,9 @@ rdataberlin,educational
 @jumping_uk,org
 @rstatsdc,event
 @satRdaySP,event
-@RProgramming,user-group
-@rstatsdata,user-group
+@RProgramming,educational
+@rstatsdata,post
 @RStatsStExBot,bot
-@rforresearch,org
-@RLangPackage,org
-@daily_r_sheets,user-group
+@rforresearch,post
+@RLangPackage,post
+@daily_r_sheets,educational
