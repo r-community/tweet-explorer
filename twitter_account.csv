@@ -199,7 +199,6 @@ Twitter_account,Category
 @NHSrCommunity,user-group
 @inside_R,educational
 @MicrosoftR,org
-@plotlygraphs,org
 @mangothecat,org
 @earlconf,event
 @rOpenSci,non-profit
@@ -218,13 +217,13 @@ Twitter_account,Category
 @AbidjanRusers,user-group
 @botswana_r,user-group
 @useR2018_conf,event
-useR2019_conf,event
-useR_Brussels,event
-user2014_ucla,event
+@useR2019_conf,event
+@useR_Brussels,event
+@user2014_ucla,event
 @useR_2013,event
 @RStatsJobs,jobs
-rstatsbot1234,bot
-rdataberlin,educational
+@rstatsbot1234,bot
+@rdataberlin,educational
 @satRday_ZAF,event
 @SatRday_NZ,event
 @satRdayFrance,event
